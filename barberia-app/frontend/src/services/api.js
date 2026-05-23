@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'barber-a-urbanstyle-production.up.railway.app/api',
+  baseURL: 'https://barber-a-urbanstyle-production.up.railway.app/api',
   // baseURL: 'http://localhost:3001/api',
   headers: { 'Content-Type': 'application/json' },
 });
