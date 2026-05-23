@@ -1,5 +1,6 @@
 #frontend
-frontend/node_modules/
+barberia-app/frontend/node_modules/
+barberia-app/frontend/dist/
 
 #backend
-backend/node_modules/
+barberia-app/backend/node_modules/
